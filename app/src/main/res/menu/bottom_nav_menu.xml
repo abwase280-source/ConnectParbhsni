@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_buses"
+        android:icon="@drawable/ic_bus"
+        android:title="Buses" />
+    <item
+        android:id="@+id/nav_trains"
+        android:icon="@drawable/ic_train"
+        android:title="Trains" />
+    <item
+        android:id="@+id/nav_auto"
+        android:icon="@drawable/ic_restaurant"
+        android:title="Hotels" />
+    <item
+        android:id="@+id/nav_nearby"
+        android:icon="@drawable/ic_nearby"
+        android:title="Nearby" />
+</menu>

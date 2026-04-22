@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Brand Colors -->
+    <color name="black">#111827</color> <!-- Near Black -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Premium Gradient Palette -->
+    <color name="gradient_start">#4F46E5</color> <!-- Indigo 600 -->
+    <color name="gradient_end">#9333EA</color>   <!-- Purple 600 -->
+
+    <color name="hero_gradient_start">#3B82F6</color> <!-- Blue 500 -->
+    <color name="hero_gradient_end">#8B5CF6</color>   <!-- Violet 500 -->
+
+    <!-- Secondary colors (Missing in previous version) -->
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Quick Access Soft Palette (Backgrounds) -->
+    <color name="bus_bg">#E0F2FE</color>      <!-- Light Blue -->
+    <color name="train_bg">#DCFCE7</color>    <!-- Light Green -->
+    <color name="nearby_bg">#F3E8FF</color>   <!-- Light Purple -->
+    <color name="tourist_bg">#FCE7F3</color>  <!-- Light Pink -->
+    <color name="emergency_bg">#FEE2E2</color> <!-- Light Red -->
+    <color name="theater_bg">#FFF7ED</color>   <!-- Light Orange -->
+    <color name="education_bg">#F0F9FF</color> <!-- Light Sky -->
+
+    <!-- Quick Access Icon Colors (Vibrant) -->
+    <color name="bus_icon">#0284C7</color>
+    <color name="train_icon">#16A34A</color>
+    <color name="nearby_icon">#9333EA</color>
+    <color name="tourist_icon">#DB2777</color>
+    <color name="emergency_icon">#DC2626</color>
+    <color name="theater_icon">#EA580C</color> <!-- Orange 600 -->
+    <color name="education_icon">#0EA5E9</color> <!-- Sky 600 -->
+
+    <!-- UI Backgrounds and Accents -->
+    <color name="bg_light">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_secondary">#64748B</color> <!-- Slate 500 -->
+    <color name="text_tertiary">#94A3B8</color>  <!-- Slate 400 -->
+    <color name="divider">#F1F5F9</color>
+</resources>

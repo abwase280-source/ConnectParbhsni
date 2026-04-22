@@ -1,0 +1,182 @@
+{
+  "Anusaya E-Square": [
+    {
+      "movieName": "Singham Again",
+      "language": "Hindi",
+      "showTimings": ["12:15 PM", "03:30 PM", "06:45 PM", "10:00 PM"]
+    },
+    {
+      "movieName": "Bhool Bhulaiyaa 3",
+      "language": "Hindi",
+      "showTimings": ["01:00 PM", "04:15 PM", "07:30 PM", "10:30 PM"]
+    },
+    {
+      "movieName": "Animal",
+      "language": "Hindi",
+      "showTimings": ["09:30 AM", "03:30 PM", "09:30 PM"]
+    },
+    {
+      "movieName": "Jawan",
+      "language": "Hindi",
+      "showTimings": ["10:45 AM", "04:15 PM", "10:00 PM"]
+    },
+    {
+      "movieName": "Pushpa 2: The Rule",
+      "language": "Hindi",
+      "showTimings": ["12:15 PM", "06:15 PM", "10:30 PM"]
+    },
+    {
+      "movieName": "Chhava",
+      "language": "Marathi",
+      "showTimings": ["01:30 PM", "07:30 PM"]
+    },
+    {
+      "movieName": "Leo",
+      "language": "South Dubbed",
+      "showTimings": ["09:45 AM", "12:45 PM", "03:45 PM", "06:45 PM", "09:45 PM"]
+    },
+    {
+      "movieName": "Fighter",
+      "language": "Hindi",
+      "showTimings": ["11:30 AM", "02:30 PM", "05:30 PM", "08:30 PM"]
+    }
+  ],
+  "Naresh Cineplex": [
+    {
+      "movieName": "Pushpa 2: The Rule",
+      "language": "Hindi",
+      "showTimings": ["11:00 AM", "02:30 PM", "06:00 PM", "09:30 PM"]
+    },
+    {
+      "movieName": "Dharmarakshak Shala",
+      "language": "Marathi",
+      "showTimings": ["12:30 PM", "03:45 PM", "07:00 PM"]
+    },
+    {
+      "movieName": "Tiger 3",
+      "language": "Hindi",
+      "showTimings": ["10:00 AM", "01:15 PM", "04:30 PM", "07:45 PM", "11:00 PM"]
+    },
+    {
+      "movieName": "Salaar",
+      "language": "Hindi",
+      "showTimings": ["09:30 AM", "12:45 PM", "04:00 PM", "07:15 PM", "10:30 PM"]
+    },
+    {
+      "movieName": "KGF Chapter 2",
+      "language": "South Dubbed",
+      "showTimings": ["11:00 AM", "02:15 PM", "05:30 PM", "08:45 PM"]
+    },
+    {
+      "movieName": "Pathaan",
+      "language": "Hindi",
+      "showTimings": ["12:00 PM", "03:15 PM", "06:30 PM", "09:45 PM"]
+    },
+    {
+      "movieName": "Navra Maza Navsacha 2",
+      "language": "Marathi",
+      "showTimings": ["10:30 AM", "01:45 PM", "05:00 PM", "08:15 PM"]
+    },
+    {
+      "movieName": "Kantara",
+      "language": "South Dubbed",
+      "showTimings": ["09:15 AM", "12:30 PM", "03:45 PM", "07:00 PM", "10:15 PM"]
+    }
+  ],
+  "Mahavir Cinema Hall": [
+    {
+      "movieName": "Singham Again",
+      "language": "Hindi",
+      "showTimings": ["12:30 PM", "03:30 PM", "06:30 PM", "09:30 PM"]
+    },
+    {
+      "movieName": "RRR",
+      "language": "Hindi",
+      "showTimings": ["12:00 PM", "03:30 PM", "07:00 PM", "10:30 PM"]
+    },
+    {
+      "movieName": "Animal",
+      "language": "Hindi",
+      "showTimings": ["11:30 AM", "03:00 PM", "06:30 PM", "10:00 PM"]
+    },
+    {
+      "movieName": "Pushpa 2: The Rule",
+      "language": "South Dubbed",
+      "showTimings": ["09:30 AM", "12:45 PM", "04:00 PM", "07:15 PM", "10:30 PM"]
+    },
+    {
+      "movieName": "Baipan Bhaari Deva",
+      "language": "Marathi",
+      "showTimings": ["10:30 AM", "01:45 PM", "05:00 PM", "08:15 PM"]
+    },
+    {
+      "movieName": "Gadar 2",
+      "language": "Hindi",
+      "showTimings": ["12:30 PM", "04:00 PM", "07:30 PM", "11:00 PM"]
+    }
+  ],
+  "Shivram Theatre": [
+    {
+      "movieName": "Navra Maza Navsacha 2",
+      "language": "Marathi",
+      "showTimings": ["12:00 PM", "03:00 PM", "06:00 PM", "09:00 PM"]
+    },
+    {
+      "movieName": "Dharmarakshak Shala",
+      "language": "Marathi",
+      "showTimings": ["12:30 PM", "03:45 PM", "07:00 PM", "10:15 PM"]
+    },
+    {
+      "movieName": "Lai Bhaari",
+      "language": "Marathi",
+      "showTimings": ["10:00 AM", "01:15 PM", "04:30 PM", "07:45 PM", "11:00 PM"]
+    },
+    {
+      "movieName": "Sairat",
+      "language": "Marathi",
+      "showTimings": ["09:30 AM", "01:00 PM", "04:30 PM", "08:00 PM"]
+    },
+    {
+      "movieName": "Bhool Bhulaiyaa 3",
+      "language": "Hindi",
+      "showTimings": ["11:30 AM", "03:00 PM", "06:30 PM", "10:00 PM"]
+    },
+    {
+      "movieName": "Ole Aale",
+      "language": "Marathi",
+      "showTimings": ["10:30 AM", "02:00 PM", "05:30 PM", "09:00 PM"]
+    }
+  ],
+  "Talreja Cinema": [
+    {
+      "movieName": "Kalki 2898 AD",
+      "language": "Hindi",
+      "showTimings": ["12:30 PM", "04:00 PM", "08:00 PM"]
+    },
+    {
+      "movieName": "Salaar",
+      "language": "South Dubbed",
+      "showTimings": ["09:30 AM", "12:45 PM", "04:00 PM", "07:15 PM", "10:30 PM"]
+    },
+    {
+      "movieName": "Ghar Banduk Biryani",
+      "language": "Marathi",
+      "showTimings": ["11:00 AM", "02:15 PM", "05:30 PM", "08:45 PM"]
+    },
+    {
+      "movieName": "Jawan",
+      "language": "Hindi",
+      "showTimings": ["12:00 PM", "03:30 PM", "07:00 PM", "10:30 PM"]
+    },
+    {
+      "movieName": "Dunki",
+      "language": "Hindi",
+      "showTimings": ["10:30 AM", "01:45 PM", "05:00 PM", "08:15 PM"]
+    },
+    {
+      "movieName": "Kantara",
+      "language": "Hindi",
+      "showTimings": ["09:45 AM", "01:00 PM", "04:15 PM", "07:30 PM", "10:45 PM"]
+    }
+  ]
+}
